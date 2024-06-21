@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Khaddke</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
 
-- 🤝 **With 2.5 years of experience in building dynamic and responsive web applications. With a strong foundation in Full-stack development, I enjoy transforming design concepts into high-performance, user-friendly applications.**
+- 🤝 **With 2.5 years of experience in building dynamic and responsive web applications. With a strong foundation in Full-stack development specializing in Frontend, I enjoy transforming design concepts into high-performance, user-friendly applications.**
 
 - 🌱 I’m currently learning **Next.js, GraphQL**
 
